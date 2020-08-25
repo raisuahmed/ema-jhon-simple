@@ -1,0 +1,42 @@
+.header img{
+    height:80px;
+    margin-left: 470px;
+
+}
+.header{
+    text-align: left;
+}
+.header nav{
+    background-color: black;
+       line-height: 40px;
+    font-size: 20px;
+    
+}
+nav a{
+    text-decoration: none;
+    color: white;
+  
+    padding: 5px;
+    margin-left: 60px;
+}
+nav a:hover{
+    background-color: grey;
+}
+.inputArea{
+    background-color: grey;
+    padding: 5px;
+}
+.FromControl{
+    width: 60%;
+    padding: 3px;
+    margin-bottom: 5px;
+    margin-left: 180px;
+    font-size: 20px;
+    margin-top: 7px;
+}
+.search{
+    margin-left: 10px;
+    padding: 6px;
+    background-color: purple;
+    border-radius: 4px;
+}
